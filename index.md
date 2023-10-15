@@ -30,21 +30,21 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ##### Header five
 ###### Header six
 
-## LINKS
-
-**1.**
+**2.**
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
-**2.**
+## LINKS
+
+**1.**
 
 [Search for it.](https://www.google.com)
 
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-**3.**
+**2.**
 
 #### The Latest News from [the BBC](https://www.bbc.com/news)
 
