@@ -42,9 +42,12 @@ Here's some words about the book _One Hundred Years..._.
 
 [Search for it.](https://www.google.com)
 
+**2.**
+
+
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-**2.**
+**3.**
 
 #### The Latest News from [the BBC](https://www.bbc.com/news)
 
