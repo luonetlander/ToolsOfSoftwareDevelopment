@@ -101,24 +101,26 @@ I read this interesting quote the other day:
 
 
 ## LISTS
+
 **1.**
 
  * Flour
 * Cheese
 * Tomatoes
 
+**2.** 
 
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
-**2.** 
+**3.** 
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
-**3.** 
+**4.** 
 
 * Calculus 
    * A professor 
@@ -129,7 +131,7 @@ I read this interesting quote the other day:
    * Has white hair 
    * Is possibly mentally unwell
 
-**4.**
+**5.**
 
  1. Cut the cheese  
 Make sure that the cheese is cut into little triangles.
